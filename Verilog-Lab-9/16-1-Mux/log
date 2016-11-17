@@ -15,6 +15,7 @@ Running...
 | in = 0000000000000100 | sel = 1101 | out = 1 
 | in = 0000000000000010 | sel = 1110 | out = 1 
 | in = 0000000000000001 | sel = 1111 | out = 1 
+| in = 1000000000000000 | sel = 0000 | out = 1 
 0 Errors, 0 Warnings
 Compile time = 0.00000, Load time = 0.01500, Execution time = 0.00000
 
