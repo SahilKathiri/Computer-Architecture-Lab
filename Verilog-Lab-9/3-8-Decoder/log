@@ -1,0 +1,14 @@
+Running...
+| a = 0 | b = 0 | c = 0 | Sum = 0 | Carry = 0 |
+| a = 0 | b = 0 | c = 1 | Sum = 1 | Carry = 0 |
+| a = 0 | b = 1 | c = 0 | Sum = 1 | Carry = 0 |
+| a = 0 | b = 1 | c = 1 | Sum = 0 | Carry = 1 |
+| a = 1 | b = 0 | c = 0 | Sum = 1 | Carry = 0 |
+| a = 1 | b = 0 | c = 1 | Sum = 0 | Carry = 1 |
+| a = 1 | b = 1 | c = 0 | Sum = 0 | Carry = 1 |
+| a = 1 | b = 1 | c = 1 | Sum = 1 | Carry = 1 |
+| a = 0 | b = 0 | c = 0 | Sum = 0 | Carry = 0 |
+0 Errors, 0 Warnings
+Compile time = 0.00000, Load time = 0.01500, Execution time = 0.03100
+
+Normal exit
