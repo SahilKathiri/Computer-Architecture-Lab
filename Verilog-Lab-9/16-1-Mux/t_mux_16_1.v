@@ -37,6 +37,8 @@ module t_mux_16_1;
     in = 16'h0002; sel = 4'he;
     #20
     in = 16'h0001; sel = 4'hf;
+    #20
+    in = 16'h8000; sel = 4'h0;
   end
   initial
   $monitor("| in = %b | sel = %b | out = %b ", in, sel, out);
